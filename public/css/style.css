@@ -43,6 +43,19 @@ main {
   margin: 20px auto;
 }
 
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  border-radius: 1rem;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2be252;
+}
+
 ul {
   list-style: none;
   margin-top: 20px;
